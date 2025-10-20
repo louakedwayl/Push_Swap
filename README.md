@@ -2,7 +2,7 @@
 
 ## Push Swap - Optimized Sorting Project
 
-Push Swap is an iconic algorithmic project from the 42 school curriculum that serves as an excellent exercise in logic and optimization. The objective is to sort a stack of integers using a limited set of operations while minimizing the number of moves required.
+Push Swap is an algorithmic project that serves as an excellent exercise in logic and optimization. The objective is to sort a stack of integers using a limited set of operations while minimizing the number of moves required.
 
 ## The Concept
 
