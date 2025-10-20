@@ -21,3 +21,24 @@ For 3 numbers: maximum 3 operations
 For 5 numbers: limit around 12 operations
 For 100 numbers: approximately 700 operations for maximum grade
 For 500 numbers: approximately 5500 operations for maximum grade
+
+
+## General usage
+
+### Installation
+
+Clone the repository
+```bash
+git clone git@github.com:louakedwayl/Push_Swap.git
+```
+
+
+Compile
+```bash
+cd push_swap && make
+```
+
+Start push_swap
+```bash
+./push_swap [nbr1 , nbr2 , ...]
+```
